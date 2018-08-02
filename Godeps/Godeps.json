@@ -1,0 +1,85 @@
+{
+	"ImportPath": "per.zdh.org/influxdb-sentinel",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/emicklei/go-restful",
+			"Comment": "v2.5.0-1-g406aeb2",
+			"Rev": "406aeb2a8d432e37cb794abdf6e00c58b0edd51b"
+		},
+		{
+			"ImportPath": "github.com/emicklei/go-restful/log",
+			"Comment": "v2.5.0-1-g406aeb2",
+			"Rev": "406aeb2a8d432e37cb794abdf6e00c58b0edd51b"
+		},
+		{
+			"ImportPath": "github.com/huin/mqtt",
+			"Rev": "c2d0e7ca9387fcfe29274b4b32ac80798d57ad4d"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/client/v2",
+			"Comment": "v1.3.0rc1-442-g6160e369b",
+			"Rev": "6160e369b1641ded1316dcf9327d8d795cec28f9"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/models",
+			"Comment": "v1.3.0rc1-442-g6160e369b",
+			"Rev": "6160e369b1641ded1316dcf9327d8d795cec28f9"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/pkg/escape",
+			"Comment": "v1.3.0rc1-442-g6160e369b",
+			"Rev": "6160e369b1641ded1316dcf9327d8d795cec28f9"
+		},
+		{
+			"ImportPath": "github.com/jeffallen/mqtt",
+			"Rev": "36aebe6d2ee4168d176bc3ef22c875b387cb0b19"
+		},
+		{
+			"ImportPath": "github.com/lestrrat/go-file-rotatelogs",
+			"Comment": "v2.1.0-8-gf984502",
+			"Rev": "f984502973a04a1bd355c5e3f5623f8c4c66b3fe"
+		},
+		{
+			"ImportPath": "github.com/lestrrat/go-strftime",
+			"Rev": "04ef93e285313c8978cbc7cad26d2aa7a9927451"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-7-gf15c970",
+			"Rev": "f15c970de5b76fac0b59abb32d62c17cc7bed265"
+		},
+		{
+			"ImportPath": "github.com/rifflock/lfshook",
+			"Comment": "v2.2",
+			"Rev": "1fdc019a35147ddbb3d25aedf713ad6d1430c144"
+		},
+		{
+			"ImportPath": "github.com/robfig/cron",
+			"Comment": "v1-58-g736158d",
+			"Rev": "736158dc09e10f1911ca3a1e1b01f11b566ce5db"
+		},
+		{
+			"ImportPath": "github.com/sirupsen/logrus",
+			"Comment": "v1.0.3-11-g89742ae",
+			"Rev": "89742aefa4b206dcf400792f3bd35b542998eb3b"
+		},
+		{
+			"ImportPath": "github.com/streadway/amqp",
+			"Rev": "cefed15a0bd808d13947f228770a81b06ebe8e45"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "847319b7fc94cab682988f93da778204da164588"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9167dbfd0f8e88b731dd88cbf73a270701a37bb4"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "9167dbfd0f8e88b731dd88cbf73a270701a37bb4"
+		}
+	]
+}
